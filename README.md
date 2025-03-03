@@ -12,15 +12,11 @@ Additionally, I have worked on UI automation and DevOps pipelines, ensuring smoo
 
 📩 Feel free to connect with me: 
 
-GitHub: github.com/Kshitij-Azad 
-
-GitHub: github.com/codebykshitij 
+GitHub: github.com/Kshitij-Azad  
 
 LinkedIn: linkedin.com/in/kshitijazad
 
 Instagram: instagram.com/i_am_kshitijazad
-
-Instagram: instagram.com/codebykshitij
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Kshitij-Azad](http://kshitij-azad.github.io/Resume/src/main/webapp/index.html)
